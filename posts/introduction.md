@@ -1,12 +1,12 @@
-+++ date = "2022-07-01" title="Welcome to C3nQ" author="Gabriel Richard U" description="Welcome to my first offical learning blog"
-
 # Welcome to C3nQ
-Hello, I'm Gabriel Richard U also known by 'C3nsoreD'. This is my offical attempt at a tech blog so there will be alot of learning along the way. I have a background in Aerospace engineering but my heart lays in software development simply because I can do much more on a computer.
 
-The idea behind this blog is to create a central place for what I learn thoughtout the week. It will mostly revovle around tech and software but not limited to that domain. If there's anything worth sharing be sure to find it here.
+Hello, my name is Gabriel Richard U, better known as 'C3nsoreD.' This is my first official try at a tech blog, so expect to learn a lot along the road. I have a degree in aerospace engineering, but software development is my passion simply because I can accomplish so much more on a computer.
 
-I hope this will serve anyone that reads this blog. For me its a record of my progress.
+The goal of this blog is to provide a central location for everything I learn throughout the week. It will primarily revolve around technology and software, but not exclusively. If there's something worth sharing, it'll be found here.
 
+I hope that everybody who reads this site will find this useful. It serves as a record of my development also.
 ---
 
-P.S: I learning publicly helps speed up the learning process.
+
+Author: **Gabriel Richard U**
+date: 2022-07-01
